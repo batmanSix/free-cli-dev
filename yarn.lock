@@ -24,11 +24,11 @@
     js-tokens "^4.0.0"
 
 "@free-cli-dev/core@file:/Users/shenyuxiaoyao/Desktop/金职位_WEB前端架构师/free-cli-dev/packages/core":
-  version "1.0.2"
+  version "1.0.3"
   resolved "file:packages/core"
 
 "@free-cli-dev/utils@file:/Users/shenyuxiaoyao/Desktop/金职位_WEB前端架构师/free-cli-dev/packages/utils":
-  version "1.0.2"
+  version "1.0.3"
   resolved "file:packages/utils"
 
 "@gar/promisify@^1.1.3":
