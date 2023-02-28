@@ -1,6 +1,6 @@
 {
   "name": "@free-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "free-cli-core",
   "author": "kangbo <841331654@qq.com>",
   "homepage": "",
@@ -18,6 +18,5 @@
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
-  },
-  "dependencies": {}
+  }
 }
