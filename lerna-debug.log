@@ -1,10 +1,6 @@
-34 error Error: Command failed with exit code 1: git add -- packages/core/package.json packages/utils/package.json lerna.json package-lock.json
-34 error The following paths are ignored by one of your .gitignore files:
-34 error package-lock.json
-34 error hint: Use -f if you really want to add them.
-34 error hint: Turn this message off by running
-34 error hint: "git config advice.addIgnoredFile false"
-34 error     at makeError (/Users/shenyuxiaoyao/Desktop/金职位_WEB前端架构师/free-cli-dev/node_modules/execa/lib/error.js:60:11)
-34 error     at handlePromise (/Users/shenyuxiaoyao/Desktop/金职位_WEB前端架构师/free-cli-dev/node_modules/execa/index.js:118:26)
-34 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
-34 error     at async Promise.all (index 0)
+45 error Error: Command failed with exit code 128: git tag v1.0.1 -m v1.0.1
+45 error fatal: tag 'v1.0.1' already exists
+45 error     at makeError (/Users/shenyuxiaoyao/Desktop/金职位_WEB前端架构师/free-cli-dev/node_modules/execa/lib/error.js:60:11)
+45 error     at handlePromise (/Users/shenyuxiaoyao/Desktop/金职位_WEB前端架构师/free-cli-dev/node_modules/execa/index.js:118:26)
+45 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+45 error     at async Promise.all (index 0)
